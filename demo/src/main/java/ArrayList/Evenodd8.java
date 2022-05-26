@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class Evenodd8 
 {
-
+	//comment
 	public static void main(String[] args) 
 	{
 		ArrayList<Integer> mylist=new ArrayList<Integer>(Arrays.asList(1,2,3,4,5));
